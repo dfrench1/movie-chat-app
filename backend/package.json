@@ -1,0 +1,11 @@
+{
+  "name": "movie-chat-app-backend",
+  "version": "1.0.0",
+  "author": "Daniel French",
+  "main": "handler.js",
+  "license": "MIT",
+  "dependencies": {
+    "aws-sdk": "^2.437.0",
+    "socketcluster": "^14.3.3"
+  }
+}
