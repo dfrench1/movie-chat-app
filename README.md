@@ -1,6 +1,6 @@
 ## movie-chat-app
 
-demo cloudfront distribution: http://dkvcxwcd4l0so.cloudfront.net
+demo cloudfront distribution:
 - to test the chat functionality as a separate user open another window in incognito mode
 
 ### stack
